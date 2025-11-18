@@ -1,3 +1,3 @@
-module github.com/Satyajit-Pawar/golang
+module openshiftrepo
 
 go 1.22
